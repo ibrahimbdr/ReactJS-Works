@@ -1,0 +1,3 @@
+[submodule "Ecommerce-TailwindCSS"]
+	path = Ecommerce-TailwindCSS
+	url = ./Ecommerce-TailwindCSS
